@@ -1,5 +1,7 @@
 # Week 4: Loops and Iteration
 # Goal: Identify internal vs external IP addresses
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 ip_addresses = [
     "192.168.1.25",
